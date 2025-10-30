@@ -10,6 +10,8 @@ Actividad que se realiza entre 2 o mas integrantes. De manera coordinada con alt
 - Objetivo: tener en claro qué se quiere lograr y cómo se va a medir el éxito.
 - Flexibilidad: capacidad de adaptarse a los cambios.
 
+![trabajo en equipo](/trabajo_en_equipo_1.webp)
+
 ## Beneficios del trabajo en equipo
 
 ### Mejora el clima laboral: 
@@ -18,5 +20,10 @@ Cuando las personas trabajan en equipo, se fomenta un ambiente de colaboración 
 ### Fomenta la creatividad: 
 El trabajo en equipo fomenta el intercambio de ideas y la colaboración, lo que puede llevar a la generación de soluciones creativas e innovadoras
 
+### Reduccion de tiempos de entrega: 
+Al trabajar en equipo, se pueden asignar tareas de manera más eficiente y establecer plazos realistas. Esto puede contribuir a una reducción en los tiempos de entrega y a una mayor eficiencia en los procesos de trabajo
+
 ### Ejemplo
-Un compañero realializa el backend, mientras otro diseña el front y otro llena la documentación necesaria para el proyecto. En este caso se aprovechan las habilidades de cada integrante para lograr un objetivo en comúm.
+Un miembro del equipo diseña la interfaz, mientras otro programa el backen y otro prueba el sistema. La idea es que todos nos coordinemos para entregar un producto funcional, aprovechando los talentos de cada integrante.
+
+## Tips para un buen trabajo en equipo
