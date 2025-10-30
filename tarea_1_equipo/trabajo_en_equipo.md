@@ -10,7 +10,9 @@ Actividad que se realiza entre 2 o mas integrantes. De manera coordinada con alt
 - Objetivo: tener en claro qué se quiere lograr y cómo se va a medir el éxito.
 - Flexibilidad: capacidad de adaptarse a los cambios.
 
-![trabajo en equipo](/trabajo_en_equipo_1.webp)
+<p align=center>
+    <img src="../trabajo_en_equipo_1.webp" alt="trabajo en equipo" width="400">
+</p>
 
 ## Beneficios del trabajo en equipo
 
@@ -26,4 +28,20 @@ Al trabajar en equipo, se pueden asignar tareas de manera más eficiente y estab
 ### Ejemplo
 Un miembro del equipo diseña la interfaz, mientras otro programa el backen y otro prueba el sistema. La idea es que todos nos coordinemos para entregar un producto funcional, aprovechando los talentos de cada integrante.
 
-## Tips para un buen trabajo en equipo
+## Resolución de conflictos
+- Escucha activa: Es importante escuchar con atención todas las partes involucradas en un conflicto. Ayuda a entender perspectiva y buscar soluciones
+Comunicacion clara y directa: Expresar los sentimientos y preocupaciones de manera clara y directa puede ayudar a resolver los conflictos 
+- Buscar mediadores: Es útil contar con un mediador neutral. La persona que toma este rol puede facilitar la comunicación y ayudar en buscar soluciones
+- Aprender de los conflictos: Los conflictos pueden ser oportunidades de aprendizaje y crecimiento. Es importante reflexionar sobre las causas del conflicto y buscar formas de evitarlos en el futuro.
+
+<p align=center>
+    <img src="../conflictos.jpg" alt="trabajo en equipo" width="400">
+</p>
+
+### ¿Cómo solucionar un conflicto?
+<table>
+    <tr>
+        <th>Negociación</th>        
+    </tr>
+    <tr>Prepar</tr>
+</table>
