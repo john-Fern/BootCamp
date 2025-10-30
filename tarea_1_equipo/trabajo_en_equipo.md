@@ -35,13 +35,5 @@ Comunicacion clara y directa: Expresar los sentimientos y preocupaciones de mane
 - Aprender de los conflictos: Los conflictos pueden ser oportunidades de aprendizaje y crecimiento. Es importante reflexionar sobre las causas del conflicto y buscar formas de evitarlos en el futuro.
 
 <p align=center>
-    <img src="../conflictos.jpg" alt="trabajo en equipo" width="400">
+    <img src="../resolucion-de-conflictos-ni-fu-ni-fol.png" alt="trabajo en equipo" width="900">
 </p>
-
-### ¿Cómo solucionar un conflicto?
-<table>
-    <tr>
-        <th>Negociación</th>        
-    </tr>
-    <tr>Prepar</tr>
-</table>
